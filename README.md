@@ -51,27 +51,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Noro18&bg_color=0D1117&color=00F7FF&line=FF5733&point=FF5733&hide_border=true" />
-</p>
-
-
 ---
 
 ### 🔗 Featured Repositories
 <p align="center">
-  <a href="https://github.com/Noro18/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noro18&repo=PROJECT_1&theme=radical" />
+  <a href="https://github.com/Noro18/Landing-page-JCR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noro18&repo=Landing-page-JCR&theme=radical" />
   </a>
-  <a href="https://github.com/Noro18/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noro18&repo=PROJECT_2&theme=radical" />
-  </a>
-  <a href="https://github.com/Noro18/PROJECT_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noro18&repo=PROJECT_3&theme=radical" />
-  </a>
+ 
 </p>
 
 ---
+
+### Commit History 
+
+<p align="center">
+<img src="https://ghchart.rshah.org/ec7133/Noro18" alt="Ezequiel's GitHub Contributions" width="100%" loading="lazy" />
+</p>
 
 <p align="center">
   Made with ❤️ by Ezequiel
