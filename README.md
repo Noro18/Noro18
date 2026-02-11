@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ezequiel Gonzaga</h1>
-<h3 align="center">Full-Stack Developer | AI & Computer Vision Enthusiast | Passionate About Web & Open Source</h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=Code.+Build.+Innovate.;Always+Learning.;Open+Source+Lover." /></h3>
 
 <p align="center">
   <a href="https://github.com/Noro18">
@@ -65,7 +65,7 @@
 
 ### 💡 Fun Animated Text
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=Code.+Build.+Innovate.;Always+Learning.;Open+Source+Lover." />
+ 
 </p>
 
 ---
