@@ -39,9 +39,10 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&count_private=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noro18&layout=compact&langs_count=10&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&count_private=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noro18&layout=compact&langs_count=10&theme=radical" width="400" />
 </p>
+
 
 ---
 
