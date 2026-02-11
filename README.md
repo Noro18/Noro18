@@ -1,14 +1,18 @@
-<!--
-  Hi! This is your GitHub profile README. 
-  You can customize it with your info, stats, and badges.
--->
+<!-- GitHub Profile README -->
 
 <p align="center">
   <img width="200" src="https://github.com/Noro18.png" alt="Profile Picture" style="border-radius:50%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ezequiel Gonzaga</h1>
-<h2 align="center"> I'm a <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Software+Developer1;Open+Source+Lover" /></h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I+am+Ezequiel.;I+am+a+Software+Developer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=Open+Source+Lover;Always+Learning;AI+Enthusiast" />
+</p>
+
+<h3 align="center">Full-Stack Developer | AI & Computer Vision Enthusiast | Passionate About Web & Open Source</h3>
 
 <p align="center">
   <a href="https://github.com/Noro18">
@@ -43,7 +47,7 @@
 
 ### 📅 GitHub Contribution Calendar
 <p align="center">
-  <img src="https://github.com/Noro18.png?tab=overview&from=2026-01-01&to=2026-12-31" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&theme=radical" />
 </p>
 
 ---
@@ -59,13 +63,6 @@
   <a href="https://github.com/Noro18/PROJECT_3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noro18&repo=PROJECT_3&theme=radical" />
   </a>
-</p>
-
----
-
-### 💡 Fun Animated Text
-<p align="center">
- 
 </p>
 
 ---
