@@ -51,6 +51,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Noro18&bg_color=0D1117&color=00F7FF&line=FF5733&point=FF5733&hide_border=true" />
+</p>
+
+
 ---
 
 ### 🔗 Featured Repositories
