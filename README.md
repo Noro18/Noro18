@@ -60,7 +60,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&theme=dracula" />
 </p>
 <p align="center">
 <img src="https://gh-heat.anishroy.com/api/Noro18/svg?theme=purple&darkMode=true" />
