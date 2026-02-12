@@ -18,12 +18,6 @@
   <a href="https://github.com/Noro18">
     <img src="https://img.shields.io/github/followers/Noro18?label=Follow&style=social" alt="Followers Badge"/>
   </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/twitter/follow/YOUR_HANDLE?label=Twitter&style=social" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
 
 ---
@@ -53,20 +47,23 @@
 
 ---
 
-### 🔗 Featured Repositories
+## 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/Noro18/Landing-page-JCR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noro18&repo=Landing-page-JCR&theme=radical" />
-  </a>
- 
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Noro18&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Noro18&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
-### Commit History 
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://ghchart.rshah.org/ec7133/Noro18" alt="Ezequiel's GitHub Contributions" width="100%" loading="lazy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&theme=tokyo-night" />
+</p>
+<p align="center">
+<img src="https://gh-heat.anishroy.com/api/Noro18/svg?theme=purple&darkMode=true" />
 </p>
 
 <p align="center">
