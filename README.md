@@ -57,5 +57,5 @@
 </p>
 
 <p align="center">
-  Made with ❤️ by Ezequiel
+  Made by Ezequiel
 </p>
