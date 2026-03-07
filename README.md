@@ -31,10 +31,6 @@
 ---
 
 
-
-
----
-
 ### 📅 GitHub Contribution Calendar
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&theme=radical" />
@@ -42,10 +38,6 @@
 
 ---
 
-
-
-
----
 
 ## 📈 Contribution Graph
 
@@ -59,3 +51,7 @@
 <p align="center">
   Made by Ezequiel
 </p>
+
+> "Any Program is only as good as it is useful."
+> — Linus Torvalds
+
