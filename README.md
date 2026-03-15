@@ -30,15 +30,6 @@
 
 ---
 
-
-### 📅 GitHub Contribution Calendar
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&theme=radical" />
-</p>
-
----
-
-
 ## 📊 GitHub Statistics
 
 <div align="center">
