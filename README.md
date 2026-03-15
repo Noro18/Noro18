@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&center=true&vCenter=true&width=500&lines=Open+Source+Lover;Always+Learning;AI+Enthusiast" />
 </p>
 
-<h3 align="center">Full-Stack Developer | AI & Computer Vision Enthusiast | Passionate About Web & Open Source</h3>
+<h3 align="center">Full-Stack Developer | AI & Computer Vision Enthusiast | Passionate About Web & Open Source | Linux User (Manjaro)</h3>
 
 <p align="center">
   <a href="https://github.com/Noro18">
