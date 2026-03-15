@@ -39,18 +39,27 @@
 ---
 
 
-## 📈 Contribution Graph
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&theme=dracula" />
-</p>
-<p align="center">
-<img src="https://gh-heat.anishroy.com/api/Noro18/svg?theme=purple&darkMode=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrix-48&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+</div>
 
-<p align="center">
-  Made by Ezequiel
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noro18&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&theme=react-dark&hide_border=true&area=true" height="180" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Noro18&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
