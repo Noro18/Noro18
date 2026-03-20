@@ -18,15 +18,25 @@
 
 ```python
 class Ezequiel:
-    role      = "Full-Stack Developer"
-    location  = "Building cool things 🌍"
-    focus     = ["AI", "Computer Vision", "Web Apps"]
-    learning  = ["Advanced Python", "AI Chatbots", "Full-Stack Dev"]
-    os        = "Manjaro Linux 🐧"
-    hobbies   = ["Gaming 🎮", "Music 🎵", "Ricing my Linux"]
-    motto     = "Code. Learn. Repeat."
+    def __init__(self):
+        self.role     = "Full-Stack Developer"
+        self.location = "Building cool things 🌍"
+        self.focus    = ["AI", "Computer Vision", "Web Apps"]
+        self.learning = ["Advanced Python", "AI Chatbots", "Full-Stack Dev"]
+        self.os       = "Manjaro Linux 🐧"
+        self.hobbies  = ["Gaming 🎮", "Music 🎵", "Ricing my Linux"]
+        self.motto    = "Code. Learn. Repeat."
+
+    def __repr__(self):
+        return (
+            f"<{self.__class__.__name__} | "
+            f"{self.role} | "
+            f'"{self.motto}">'
+        )
 
 me = Ezequiel()
+print(me)
+# <Ezequiel | Full-Stack Developer | "Code. Learn. Repeat.">
 ```
 
 ---
