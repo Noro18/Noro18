@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,40:00f7ff,100:ff5733&height=220&section=header&text=Ezequiel&fontSize=80&fontColor=ffffff&fontAlignY=45&fontAlign=70&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=18&descAlign=70&animation=fadeIn" />
+![Ezequiel](./ezequiel-banner.svg)
 
 </div>
 
