@@ -14,9 +14,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Noro18
-         outputs: |
-          dist/github-contribution-grid-snake.svg?color_snake=#BF616A&color_dots=#2E3440,#3B4252,#434C5E,#4C566A,#88C0D0&color_empty=#2E3440
-          dist/github-contribution-grid-snake-dark.svg?color_snake=#BF616A&color_dots=#2E3440,#3B4252,#434C5E,#4C566A,#88C0D0&color_empty=#2E3440
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#BF616A&color_dots=#2E3440,#3B4252,#434C5E,#4C566A,#88C0D0&color_empty=#2E3440
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#BF616A&color_dots=#2E3440,#3B4252,#434C5E,#4C566A,#88C0D0&color_empty=#2E3440
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
