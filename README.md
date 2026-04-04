@@ -48,34 +48,28 @@ print(me)
 <!-- Languages -->
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00F7FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python&logoColor=00F7FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <!-- Frontend -->
 **Frontend**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react&logoColor=88C0D0)
+![Next.js](https://img.shields.io/badge/Next.js-2E3440?style=for-the-badge&logo=next.js&logoColor=ECEFF4)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-2E3440?style=for-the-badge&logo=tailwind-css&logoColor=81A1C1)
+![HTML5](https://img.shields.io/badge/HTML5-2E3440?style=for-the-badge&logo=html5&logoColor=BF616A)
 
 <!-- Backend & AI -->
 **Backend & AI**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![FastAPI](https://img.shields.io/badge/FastAPI-2E3440?style=for-the-badge&logo=fastapi&logoColor=A3BE8C)
+![Django](https://img.shields.io/badge/Django-2E3440?style=for-the-badge&logo=django&logoColor=A3BE8C)
+![OpenCV](https://img.shields.io/badge/OpenCV-2E3440?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 
 <!-- Tools -->
 **Tools & Environment**
-
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-
-</div>
-
+![Linux](https://img.shields.io/badge/Linux-2E3440?style=for-the-badge&logo=linux&logoColor=EBCB8B)
+![Git](https://img.shields.io/badge/Git-2E3440?style=for-the-badge&logo=git&logoColor=BF616A)
+![Docker](https://img.shields.io/badge/Docker-2E3440?style=for-the-badge&logo=docker&logoColor=81A1C1)
+![VS Code](https://img.shields.io/badge/VS_Code-2E3440?style=for-the-badge&logo=visual-studio-code&logoColor=5E81AC)
 ---
 
 ## 📊 GitHub Statistics
@@ -125,7 +119,7 @@ print(me)
 ## 💬 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -146,7 +140,7 @@ print(me)
 
 **Profile Views**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Noro18&style=for-the-badge&color=00f7ff&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Noro18&style=for-the-badge&color=627AA7&labelColor=0d1117)
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5733,50:00f7ff,100:0d0d0d&height=120&section=footer" />
