@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-![Ezequiel](./ezequiel-banner.svg)
+![Ezequiel](./ezequiel-banner-nord.svg)
 
 </div>
 
