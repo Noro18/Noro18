@@ -100,8 +100,8 @@ print(me)
 
 <div align="center">
 
-| 🐧 Linux Knowldge | 👁️ Computer Vision | 🌐 Web Apps |
-|:---:|:---:|:---:|
+|          🐧 Linux Knowldge          |                    👁️ Computer Vision                    |                      🌐 Web Apps                      |
+| :--------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------: |
 | Building customizeed Linux Desktop | Real-time object detection & image processing pipelines | Full-stack apps with modern React & FastAPI backends |
 
 </div>
