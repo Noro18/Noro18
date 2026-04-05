@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Typing SVG Row 1 -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Linux+Power+User+(Manjaro)+%F0%9F%90%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=88C0D0&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Linux+Power+User+(Manjaro)+%F0%9F%90%A7" alt="Typing SVG" />
 
 </div>
 
