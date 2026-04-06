@@ -143,6 +143,6 @@ print(me)
 ![Profile Views](https://komarev.com/ghpvc/?username=Noro18&style=for-the-badge&color=627AA7&labelColor=0d1117)
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5733,50:00f7ff,100:0d0d0d&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:5E81AC,100:88C0D0&height=120&section=footer" />
 
 </div>
