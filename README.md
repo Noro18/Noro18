@@ -53,8 +53,6 @@ print(me)
 
 <!-- Frontend -->
 **Frontend**
-![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react&logoColor=88C0D0)
-![Next.js](https://img.shields.io/badge/Next.js-2E3440?style=for-the-badge&logo=next.js&logoColor=ECEFF4)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-2E3440?style=for-the-badge&logo=tailwind-css&logoColor=81A1C1)
 ![HTML5](https://img.shields.io/badge/HTML5-2E3440?style=for-the-badge&logo=html5&logoColor=BF616A)
 
