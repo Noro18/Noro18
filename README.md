@@ -75,7 +75,7 @@ print(me)
 <div align="center">
   <img src="https://noro18-github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&theme=nord&hide_border=true&count_private=true&border_radius=12" height="180" alt="GitHub Stats" />
     
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&theme=nord&hide_border=true&border_radius=12" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&theme=nord&hide_border=true&border_radius=12&cache_bust=1" height="180" alt="GitHub Streak" />
 </div>
 
 <div align="center">
