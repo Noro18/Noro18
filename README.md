@@ -49,25 +49,26 @@ print(me)
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-060b14?style=for-the-badge&logo=python&logoColor=00b4d8)
-![JavaScript](https://img.shields.io/badge/JavaScript-060b14?style=for-the-badge&logo=javascript&logoColor=ffd166)
+![JavaScript](https://img.shields.io/badge/JavaScript-060b14?style=for-the-badge&logo=javascript&logoColor=02c39a)
 
 <!-- Frontend -->
 **Frontend**
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-060b14?style=for-the-badge&logo=tailwind-css&logoColor=00b4d8)
-![HTML5](https://img.shields.io/badge/HTML5-060b14?style=for-the-badge&logo=html5&logoColor=e63946)
+![HTML5](https://img.shields.io/badge/HTML5-060b14?style=for-the-badge&logo=html5&logoColor=00b4d8)
 
 <!-- Backend & AI -->
 **Backend & AI**
 ![FastAPI](https://img.shields.io/badge/FastAPI-060b14?style=for-the-badge&logo=fastapi&logoColor=02c39a)
 ![Django](https://img.shields.io/badge/Django-060b14?style=for-the-badge&logo=django&logoColor=02c39a)
-![OpenCV](https://img.shields.io/badge/OpenCV-060b14?style=for-the-badge&logo=opencv&logoColor=b5179e)
+![OpenCV](https://img.shields.io/badge/OpenCV-060b14?style=for-the-badge&logo=opencv&logoColor=00b4d8)
 
 <!-- Tools -->
 **Tools & Environment**
-![Linux](https://img.shields.io/badge/Linux-060b14?style=for-the-badge&logo=linux&logoColor=ffd166)
-![Git](https://img.shields.io/badge/Git-060b14?style=for-the-badge&logo=git&logoColor=e63946)
+![Linux](https://img.shields.io/badge/Linux-060b14?style=for-the-badge&logo=linux&logoColor=02c39a)
+![Git](https://img.shields.io/badge/Git-060b14?style=for-the-badge&logo=git&logoColor=00b4d8)
 ![Docker](https://img.shields.io/badge/Docker-060b14?style=for-the-badge&logo=docker&logoColor=00b4d8)
 ![VS Code](https://img.shields.io/badge/VS_Code-060b14?style=for-the-badge&logo=visual-studio-code&logoColor=00b4d8)
+
 ---
 
 ## 📊 GitHub Statistics
@@ -75,13 +76,13 @@ print(me)
 <div align="center">
   <img src="https://noro18-github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&bg_color=060b14&title_color=02c39a&text_color=e0f2f1&icon_color=00b4d8&hide_border=true&count_private=true&border_radius=12" height="180" alt="GitHub Stats" />
     
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&background=060b14&fire=02c39a&ring=00b4d8&currStreakNum=02c39a&sideNums=00b4d8&currStreakLabel=e0f2f1&hide_border=true&border_radius=12&cache_bust=1" height="180" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&background=060b14&fire=02c39a&ring=00b4d8&currStreakNum=02c39a&sideNums=00b4d8&currStreakLabel=ffffff&sideLabels=ffffff&dates=00b4d8&hide_border=true&border_radius=12" height="180" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://noro18-github-readme-stats.vercel.app/api/top-langs?username=Noro18&layout=compact&bg_color=060b14&title_color=02c39a&text_color=e0f2f1&icon_color=00b4d8&hide_border=true&langs_count=8&border_radius=12" height="180" alt="Top Languages" />
+  <img src="https://noro18-github-readme-stats.vercel.app/api/top-langs?username=Noro18&layout=compact&bg_color=060b14&title_color=02c39a&text_color=ffffff&icon_color=00b4d8&hide_border=true&langs_count=8&border_radius=12" height="180" alt="Top Languages" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&theme=tokyonight&area=true&hide_border=true" height="180" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&bg_color=060b14&color=e0f2f1&line=02c39a&point=00b4d8&area=true&area_color=02c39a&hide_border=true" height="180" alt="Activity Graph" />
 </div>
 
 ---
