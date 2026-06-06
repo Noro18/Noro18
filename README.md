@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated Banner -->
-![Ezequiel](./ezequiel-banner-nord.svg)
+![Ezequiel](./ezequiel-banner-gruvbox.svg)
 
 </div>
 
 <div align="center">
 
 <!-- Typing SVG Row 1 -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=88C0D0&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Linux+Power+User+(Manjaro)+%F0%9F%90%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=8EC07C&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Linux+Power+User+(Manjaro)+%F0%9F%90%A7" alt="Typing SVG" />
 
 </div>
 
@@ -48,40 +48,40 @@ print(me)
 <!-- Languages -->
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python&logoColor=00F7FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=8EC07C)
+![JavaScript](https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=FABD2F)
 
 <!-- Frontend -->
 **Frontend**
-![TailwindCSS](https://img.shields.io/badge/Tailwind-2E3440?style=for-the-badge&logo=tailwind-css&logoColor=81A1C1)
-![HTML5](https://img.shields.io/badge/HTML5-2E3440?style=for-the-badge&logo=html5&logoColor=BF616A)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-282828?style=for-the-badge&logo=tailwind-css&logoColor=8EC07C)
+![HTML5](https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=FB4934)
 
 <!-- Backend & AI -->
 **Backend & AI**
-![FastAPI](https://img.shields.io/badge/FastAPI-2E3440?style=for-the-badge&logo=fastapi&logoColor=A3BE8C)
-![Django](https://img.shields.io/badge/Django-2E3440?style=for-the-badge&logo=django&logoColor=A3BE8C)
-![OpenCV](https://img.shields.io/badge/OpenCV-2E3440?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![FastAPI](https://img.shields.io/badge/FastAPI-282828?style=for-the-badge&logo=fastapi&logoColor=B8BB26)
+![Django](https://img.shields.io/badge/Django-282828?style=for-the-badge&logo=django&logoColor=B8BB26)
+![OpenCV](https://img.shields.io/badge/OpenCV-282828?style=for-the-badge&logo=opencv&logoColor=D3869B)
 
 <!-- Tools -->
 **Tools & Environment**
-![Linux](https://img.shields.io/badge/Linux-2E3440?style=for-the-badge&logo=linux&logoColor=EBCB8B)
-![Git](https://img.shields.io/badge/Git-2E3440?style=for-the-badge&logo=git&logoColor=BF616A)
-![Docker](https://img.shields.io/badge/Docker-2E3440?style=for-the-badge&logo=docker&logoColor=81A1C1)
-![VS Code](https://img.shields.io/badge/VS_Code-2E3440?style=for-the-badge&logo=visual-studio-code&logoColor=5E81AC)
+![Linux](https://img.shields.io/badge/Linux-282828?style=for-the-badge&logo=linux&logoColor=FABD2F)
+![Git](https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git&logoColor=FB4934)
+![Docker](https://img.shields.io/badge/Docker-282828?style=for-the-badge&logo=docker&logoColor=8EC07C)
+![VS Code](https://img.shields.io/badge/VS_Code-282828?style=for-the-badge&logo=visual-studio-code&logoColor=689D6A)
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://noro18-github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&theme=nord&hide_border=true&count_private=true&border_radius=12" height="180" alt="GitHub Stats" />
+  <img src="https://noro18-github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&border_radius=12" height="180" alt="GitHub Stats" />
     
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&theme=nord&hide_border=true&border_radius=12&cache_bust=1" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&theme=gruvbox&hide_border=true&border_radius=12&cache_bust=1" height="180" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://noro18-github-readme-stats.vercel.app/api/top-langs?username=Noro18&layout=compact&theme=nord&hide_border=true&langs_count=8&border_radius=12" height="180" alt="Top Languages" />
+  <img src="https://noro18-github-readme-stats.vercel.app/api/top-langs?username=Noro18&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&border_radius=12" height="180" alt="Top Languages" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&theme=react&area=true&hide_border=true" height="180" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&theme=gruvbox&area=true&hide_border=true" height="180" alt="Activity Graph" />
 </div>
 
 ---
@@ -89,7 +89,7 @@ print(me)
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://noro18-github-profile-trophy.vercel.app/?username=Noro18&theme=nord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://noro18-github-profile-trophy.vercel.app/?username=Noro18&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -117,7 +117,7 @@ print(me)
 ## 💬 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -126,8 +126,8 @@ print(me)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noro18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1d2021?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noro18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1d2021?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
 
 
 </div>
@@ -138,9 +138,9 @@ print(me)
 
 **Profile Views**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Noro18&style=for-the-badge&color=627AA7&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Noro18&style=for-the-badge&color=689D6A&labelColor=1d2021)
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:5E81AC,100:88C0D0&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,50:689D6A,100:8EC07C&height=120&section=footer" />
 
 </div>
