@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated Banner -->
-![Ezequiel](./ezequiel-banner-gruvbox.svg)
+![Ezequiel](./ezequiel-banner-teal.svg)
 
 </div>
 
 <div align="center">
 
 <!-- Typing SVG Row 1 -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=a9b665&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Linux+Power+User+(Manjaro)+%F0%9F%90%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=02c39a&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Linux+Power+User+(Manjaro)+%F0%9F%90%A7" alt="Typing SVG" />
 
 </div>
 
@@ -48,40 +48,40 @@ print(me)
 <!-- Languages -->
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=7daea3)
-![JavaScript](https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=d8a657)
+![Python](https://img.shields.io/badge/Python-060b14?style=for-the-badge&logo=python&logoColor=00b4d8)
+![JavaScript](https://img.shields.io/badge/JavaScript-060b14?style=for-the-badge&logo=javascript&logoColor=ffd166)
 
 <!-- Frontend -->
 **Frontend**
-![TailwindCSS](https://img.shields.io/badge/Tailwind-282828?style=for-the-badge&logo=tailwind-css&logoColor=7daea3)
-![HTML5](https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=ea6962)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-060b14?style=for-the-badge&logo=tailwind-css&logoColor=00b4d8)
+![HTML5](https://img.shields.io/badge/HTML5-060b14?style=for-the-badge&logo=html5&logoColor=e63946)
 
 <!-- Backend & AI -->
 **Backend & AI**
-![FastAPI](https://img.shields.io/badge/FastAPI-282828?style=for-the-badge&logo=fastapi&logoColor=a9b665)
-![Django](https://img.shields.io/badge/Django-282828?style=for-the-badge&logo=django&logoColor=a9b665)
-![OpenCV](https://img.shields.io/badge/OpenCV-282828?style=for-the-badge&logo=opencv&logoColor=d3869b)
+![FastAPI](https://img.shields.io/badge/FastAPI-060b14?style=for-the-badge&logo=fastapi&logoColor=02c39a)
+![Django](https://img.shields.io/badge/Django-060b14?style=for-the-badge&logo=django&logoColor=02c39a)
+![OpenCV](https://img.shields.io/badge/OpenCV-060b14?style=for-the-badge&logo=opencv&logoColor=b5179e)
 
 <!-- Tools -->
 **Tools & Environment**
-![Linux](https://img.shields.io/badge/Linux-282828?style=for-the-badge&logo=linux&logoColor=d8a657)
-![Git](https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git&logoColor=ea6962)
-![Docker](https://img.shields.io/badge/Docker-282828?style=for-the-badge&logo=docker&logoColor=7daea3)
-![VS Code](https://img.shields.io/badge/VS_Code-282828?style=for-the-badge&logo=visual-studio-code&logoColor=7daea3)
+![Linux](https://img.shields.io/badge/Linux-060b14?style=for-the-badge&logo=linux&logoColor=ffd166)
+![Git](https://img.shields.io/badge/Git-060b14?style=for-the-badge&logo=git&logoColor=e63946)
+![Docker](https://img.shields.io/badge/Docker-060b14?style=for-the-badge&logo=docker&logoColor=00b4d8)
+![VS Code](https://img.shields.io/badge/VS_Code-060b14?style=for-the-badge&logo=visual-studio-code&logoColor=00b4d8)
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://noro18-github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&bg_color=282828&title_color=a9b665&text_color=d4be98&icon_color=7daea3&hide_border=true&count_private=true&border_radius=12" height="180" alt="GitHub Stats" />
+  <img src="https://noro18-github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&bg_color=060b14&title_color=02c39a&text_color=e0f2f1&icon_color=00b4d8&hide_border=true&count_private=true&border_radius=12" height="180" alt="GitHub Stats" />
     
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&background=282828&fire=a9b665&ring=7daea3&currStreakNum=a9b665&sideNums=7daea3&currStreakLabel=d4be98&hide_border=true&border_radius=12&cache_bust=1" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&background=060b14&fire=02c39a&ring=00b4d8&currStreakNum=02c39a&sideNums=00b4d8&currStreakLabel=e0f2f1&hide_border=true&border_radius=12&cache_bust=1" height="180" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://noro18-github-readme-stats.vercel.app/api/top-langs?username=Noro18&layout=compact&bg_color=282828&title_color=a9b665&text_color=d4be98&icon_color=7daea3&hide_border=true&langs_count=8&border_radius=12" height="180" alt="Top Languages" />
+  <img src="https://noro18-github-readme-stats.vercel.app/api/top-langs?username=Noro18&layout=compact&bg_color=060b14&title_color=02c39a&text_color=e0f2f1&icon_color=00b4d8&hide_border=true&langs_count=8&border_radius=12" height="180" alt="Top Languages" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&theme=gruvbox&area=true&hide_border=true" height="180" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&theme=tokyonight&area=true&hide_border=true" height="180" alt="Activity Graph" />
 </div>
 
 ---
@@ -89,7 +89,7 @@ print(me)
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://noro18-github-profile-trophy.vercel.app/?username=Noro18&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://noro18-github-profile-trophy.vercel.app/?username=Noro18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -117,7 +117,7 @@ print(me)
 ## 💬 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -126,8 +126,8 @@ print(me)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-1d2021?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noro18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1d2021?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-060b14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noro18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-060b14?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
 
 
 </div>
@@ -138,9 +138,9 @@ print(me)
 
 **Profile Views**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Noro18&style=for-the-badge&color=a9b665&labelColor=1d2021)
+![Profile Views](https://komarev.com/ghpvc/?username=Noro18&style=for-the-badge&color=02c39a&labelColor=060b14)
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,50:7daea3,100:a9b665&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060b14,50:00b4d8,100:02c39a&height=120&section=footer" />
 
 </div>
