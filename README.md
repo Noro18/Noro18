@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-![Ezequiel](./ezequiel-banner-teal.svg)
+![Ezequiel](./ezequiel-banner.svg)
 
 </div>
 
@@ -89,7 +89,7 @@ print(me)
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://noro18-github-profile-trophy.vercel.app/?username=Noro18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://noro18-github-profile-trophy.vercel.app/?username=Noro18&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
