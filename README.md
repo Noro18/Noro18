@@ -11,7 +11,6 @@
 
 [Name: "Ezequie Vieira Gonzaga Macedo"]
 [username: "Noro18"]
-                                                                                                           
 ```
 
 ### Full-Stack Developer · Computer Vision Enthusiast · Linux Customization
@@ -69,9 +68,9 @@ echo "Hi, I'm Ezequiel — $role"
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://noro18-github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&bg_color=060b14&title_color=02c39a&text_color=e0f2f1&icon_color=00b4d8&hide_border=true&hide_rank=true&border_radius=12" height="170" alt="GitHub Stats" />
+  <img src="https://noro18-github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&icon_color=999999&hide_border=true&hide_rank=true&border_radius=12" height="170" alt="GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&background=060b14&fire=02c39a&ring=00b4d8&currStreakNum=02c39a&sideNums=00b4d8&currStreakLabel=ffffff&sideLabels=ffffff&dates=00b4d8&hide_border=true&border_radius=12" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&background=0d0d0d&fire=ffffff&ring=999999&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=ffffff&sideLabels=999999&dates=666666&hide_border=true&border_radius=12" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
