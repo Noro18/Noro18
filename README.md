@@ -1,148 +1,81 @@
 <div align="center">
 
-<!-- Animated Banner -->
 ![Ezequiel](./ezequiel-banner.svg)
 
-</div>
-
-<div align="center">
-
-<!-- Typing SVG Row 1 -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=02c39a&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Linux+Power+User+(Manjaro)+%F0%9F%90%A7" alt="Typing SVG" />
+### Full-Stack Developer · Computer Vision Enthusiast · Linux Customization
 
 </div>
 
 ---
 
-## ⚡ About Me
+## About
 
-```python
-class Ezequiel:
-    def __init__(self):
-        self.role     = "Full-Stack Developer"
-        self.location = "Building cool things 🌍"
-        self.focus    = ["AI", "Computer Vision", "Web Apps"]
-        self.learning = ["Advanced Python", "AI Chatbots", "Full-Stack Dev"]
-        self.os       = "Manjaro Linux 🐧"
-        self.hobbies  = ["Gaming 🎮", "Music 🎵", "Ricing my Linux"]
-        self.motto    = "Code. Learn. Repeat."
+I'm a full-stack developer working primarily in Python, Kotlin, and JavaScript — building web apps, exploring computer vision pipelines, and customizing my Linux setup down to the last pixel.
 
-    def __repr__(self):
-        return (
-            f"<{self.__class__.__name__} | "
-            f"{self.role} | "
-            f'"{self.motto}">'
-        )
+```bash
+#!/bin/bash
+role="Full-Stack Developer"
+focus=("Web Development" "Android Development" "AI in Mobile Apps")
+learning=("Advanced Python" "AI/ML" "System Design")
+os="Manjaro Linux"
+motto="Code. Learn. Repeat."
 
-me = Ezequiel()
-print(me)
-# <Ezequiel | Full-Stack Developer | "Code. Learn. Repeat.">
+echo "Hi, I'm Ezequiel — $role"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
-
-<!-- Languages -->
 **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-060b14?style=for-the-badge&logo=python&logoColor=00b4d8)
-![JavaScript](https://img.shields.io/badge/JavaScript-060b14?style=for-the-badge&logo=javascript&logoColor=02c39a)
+**Frameworks & Tools**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<!-- Frontend -->
-**Frontend**
-![TailwindCSS](https://img.shields.io/badge/Tailwind-060b14?style=for-the-badge&logo=tailwind-css&logoColor=00b4d8)
-![HTML5](https://img.shields.io/badge/HTML5-060b14?style=for-the-badge&logo=html5&logoColor=00b4d8)
-
-<!-- Backend & AI -->
-**Backend & AI**
-![FastAPI](https://img.shields.io/badge/FastAPI-060b14?style=for-the-badge&logo=fastapi&logoColor=02c39a)
-![Django](https://img.shields.io/badge/Django-060b14?style=for-the-badge&logo=django&logoColor=02c39a)
-![OpenCV](https://img.shields.io/badge/OpenCV-060b14?style=for-the-badge&logo=opencv&logoColor=00b4d8)
-
-<!-- Tools -->
-**Tools & Environment**
-![Linux](https://img.shields.io/badge/Linux-060b14?style=for-the-badge&logo=linux&logoColor=02c39a)
-![Git](https://img.shields.io/badge/Git-060b14?style=for-the-badge&logo=git&logoColor=00b4d8)
-![Docker](https://img.shields.io/badge/Docker-060b14?style=for-the-badge&logo=docker&logoColor=00b4d8)
-![VS Code](https://img.shields.io/badge/VS_Code-060b14?style=for-the-badge&logo=visual-studio-code&logoColor=00b4d8)
+**Environment**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## Featured Project
+
+**[linux-ricing-dotfiles](https://github.com/Noro18/linux-ricing-dotfiles)** — my most-starred project, a fully customized Linux desktop configuration. It's the clearest example of my attention to detail and Linux fluency.
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://noro18-github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&bg_color=060b14&title_color=02c39a&text_color=e0f2f1&icon_color=00b4d8&hide_border=true&count_private=true&border_radius=12" height="180" alt="GitHub Stats" />
-    
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&background=060b14&fire=02c39a&ring=00b4d8&currStreakNum=02c39a&sideNums=00b4d8&currStreakLabel=ffffff&sideLabels=ffffff&dates=00b4d8&hide_border=true&border_radius=12" height="180" alt="GitHub Streak" />
+  <img src="https://noro18-github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&bg_color=060b14&title_color=02c39a&text_color=e0f2f1&icon_color=00b4d8&hide_border=true&hide_rank=true&border_radius=12" height="170" alt="GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&background=060b14&fire=02c39a&ring=00b4d8&currStreakNum=02c39a&sideNums=00b4d8&currStreakLabel=ffffff&sideLabels=ffffff&dates=00b4d8&hide_border=true&border_radius=12" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://noro18-github-readme-stats.vercel.app/api/top-langs?username=Noro18&layout=compact&bg_color=060b14&title_color=02c39a&text_color=ffffff&icon_color=00b4d8&hide_border=true&langs_count=8&border_radius=12" height="180" alt="Top Languages" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noro18&bg_color=060b14&color=e0f2f1&line=02c39a&point=00b4d8&area=true&area_color=02c39a&hide_border=true" height="180" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/Noro18/Noro18/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
 
-## 🏆 Trophies
+## Currently Exploring
 
-<div align="center">
-  <img src="https://noro18-github-profile-trophy.vercel.app/?username=Noro18&theme=gitdimmed&no-frame=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-
----
-
-## 🔭 Currently Working On
-
-<div align="center">
-
-|          🐧 Linux Knowldge          |                    👁️ Computer Vision                    |                      🌐 Web Apps                      |
-| :--------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------: |
-| Building customizeed Linux Desktop | Real-time object detection & image processing pipelines | Full-stack apps with modern React & FastAPI backends |
-
-</div>
+| 🤖 Android Development | 🧠 AI in Mobile Apps | 🌐 Web Development |
+|:---:|:---:|:---:|
+| Native apps with Kotlin | On-device ML & smart features | Full-stack apps with Django & FastAPI |
 
 ---
 
-## 📈 Contribution Snake
+## Connect
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Noro18/Noro18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💬 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-060b14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noro18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-060b14?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
-
-
-</div>
-
----
-
-<div align="center">
-
-**Profile Views**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Noro18&style=for-the-badge&color=02c39a&labelColor=060b14)
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060b14,50:00b4d8,100:02c39a&height=120&section=footer" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Noro18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
