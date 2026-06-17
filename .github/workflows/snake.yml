@@ -13,8 +13,8 @@ jobs:
         with:
           github_user_name: Noro18
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#00b4d8&color_dots=#0f4a40,#0c6455,#09826b,#06a080,#02c39a&color_empty=#060b14
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00b4d8&color_dots=#0f4a40,#0c6455,#09826b,#06a080,#02c39a&color_empty=#060b14
+            dist/github-contribution-grid-snake.svg?color_snake=#ffeb3b&color_dots=#2d2d2d,#555555,#888888,#c0c0c0,#ffffff&color_empty=#161b22
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffeb3b&color_dots=#2d2d2d,#555555,#888888,#c0c0c0,#ffffff&color_empty=#161b22
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
