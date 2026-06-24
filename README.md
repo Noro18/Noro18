@@ -13,7 +13,7 @@
 [username: "Noro18"]
 ```
 
-### Full-Stack Developer · Computer Vision Enthusiast · Linux Customization
+### Full-Stack Developer · Computer Vision Enthusiast · Linux Customization · Android Lover
 
 </div>
 
