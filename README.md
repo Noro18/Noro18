@@ -70,7 +70,7 @@ echo "Hi, I'm Ezequiel — $role"
 <div align="center">
   <img src="https://noro18-github-readme-stats.vercel.app/api?username=Noro18&show_icons=true&bg_color=0d0d0d&title_color=ffffff&text_color=cccccc&icon_color=999999&hide_border=true&border_radius=12" height="170" alt="GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&background=0d0d0d&fire=ffffff&ring=999999&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=ffffff&sideLabels=999999&dates=666666&hide_border=true&border_radius=12&v=1" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noro18&background=0d0d0d&fire=ffffff&ring=999999&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=ffffff&sideLabels=999999&dates=666666&hide_border=true&border_radius=12&v=0" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
